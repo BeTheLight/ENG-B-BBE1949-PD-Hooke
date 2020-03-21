@@ -1,4 +1,4 @@
-﻿\id FRT ENG-GB (p.sfm) - The Bible in Basic English (BBE). Copyright 1949, Public Domain 2019. S. H. Hooke. ⁜ 
+﻿\id FRT ENG-GB (p.sfm) - The Bible in Basic English (BBE). Copyright 1949, Public Domain 2019. S. H. Hooke. 
 \mt1 The Basic Bible
 \mt3 Containing the
 \mt2 Old and New Testaments in Basic English
@@ -8,7 +8,13 @@
 \periph Introduction
 \ib1
 \p The Basic Bible is a new Bible---A Bible that can be read and understood by everybody. Newly translated from the original sources by two committees of scholars under the direction of Professor S. H. Hooke and the Syndics of the Cambridge University Press and put into a brief vocabulary of 1000 easily understood words, the Old and New Testaments are now offered in a wholly new version which it is anticipated will open the English Bible to many new readers all over the world.  \bk The Basic Bible\bk* is not intended to compete with or supersede the Authorized Version. Nevertheless, many people who know and love the Authorized Version are discovering, to their surprise and satisfaction, that to read this new translation is like reading the Bible for the first time.
-\p The form in which the Bible is given here is not simply another example of the Bible story put into present-day English. The language used is Basic English. Basic English, produced by Mr C. K. Ogden of the Orthological Institute, is a simple form of the English language which, with 850 words, is able to give the sense of anything which may be said in English.
+\p The form in which the Bible is given here is not simply another example of the Bible story put into present-day English. The language used is Basic English.\f + \fr \fk Basic English: \ft The language of this Note.\f* 
+\p Basic English, produced by Mr C. K. Ogden of the Orthological Institute in England, is a simple form of the English language which, with 850 words,\f + \fr \fk 850 words: \ft By the addition of 50 Special Bible words and the use of 100 words listed as giving most help in the reading of English verse, this number has been increased to 1000 for the purpose of putting the Bible into Basic.\f* is able to give the sense of anything which may be said in English.
+\p Working with the Orthological Institute, A Committee under the direction of Professor S. H. Hooke, Professor Emeritus of Old Testament Studies in the University of London, was responsible for a new English form of the Bible made from teh Hebrew and the Greek.
+\p In this undertaking, the latest ideas and discoveries in connection with the work of putting the Bible into other languages were taken into account, and when the Basic form was complete it was gone over  in detail by a Committee formed by the Snydics of the Cambridge University Press.
+\p The Basic Bible, which in this way was watched over by two separate groups of experts through its different stages, is designed to be used wherever the English language has taken root.
+\p Frequently, the narrow limits of the word-list made it hard to keep the Basic completely parallel with the Hebrew and the Greek; but great trouble was taken with every verse and every line to make certain that there are no errors of sense and no loose wording. It is only natural that, from time to time, some of the more delecate shades of sense were not covered; on the other hand, it is well to keep in mind that in the Authorised (King James) Version the power and music of the language sometimes take so much of the reader's attention that these more delicate shades are overlooked.
+\p In fact, the Basic expert is forced, because of the limited material with which he is working, to give special care to the sense of the words before him. There is no question of the Basic Bible taking the place of the Authorised Version, or coming into competition with it; but it may be said of the Basic English Bible that it is in a marked degree straightforward and simple and these qualities give it an independent value.
 \ib1
 \periph About this work
 \imt3 Signs used in this book
@@ -16,13 +22,16 @@
 \ili . . .    are used when it is no longer possible to be certain of the true sense of the Hebrew words, and for this reason no attempt has been made to put them into Basic.
 \ili * * *   are used as a sign that one or more Hebrew words, necessary to the sense, have been taken out at some time or another.
 \ili [ ]   are used for marking additions made by later writers.
-\ili { }  are used for marking additions
-\im \it Sloping print:\it* When words are used which are not in the Basic list, they are printed in sloping print the first time they are used in any division of the book.
-\ib
-\im The numbers used for divisions of books and for verses are the same as in the Authorised and Revised Versions of the English Bible.
+\ili ( )  are used for marking additions put in for the purpose of making the sense clear.
+\ili { }  have been put around numbers of verses which have been moved to a different position from that which they have in the Authorised and English Revised Versions.
+\ili \it Sloping print:\it* When words are used which are not in the Basic list, they are printed in sloping print the first time they are used in any division of the book.
+\ili The numbers used for divisions of books and for verses are the same as in the Authorised and Revised Versions of the English Bible.
 \periph Old Testament Intro
 \h ~
 \toc0 Old Testament
 \toc2 Old Testament
 \toc3 OT
-\mt1 The First Promise
+\mt1 Old Testament
+\ib
+\pb
+\ib
